@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArkunaKing
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in FrontEnd coding
 - 🌱 I’m currently learning HTML, CSS, C#, Javascript
 - 💞️ I’m looking to collaborate on -
